@@ -1,0 +1,1 @@
+var velocidade = 100
